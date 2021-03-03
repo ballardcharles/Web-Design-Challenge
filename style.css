@@ -1,24 +1,34 @@
 /* navbar styling*/
 a.navbar-brand{
     margin-left: 10px;
-    padding: 10px;
-    background-color: rgb(81, 175, 160);
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
 }
-
 
 /* navbar styling*/
 .navbar{
     padding-top:0px;
     padding-bottom: 0px;
-    padding-right:40px;
+    padding-right:50px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .nav-item.dropdown.show {
-    background-color: #ddd;
+    background-color: rgb(141, 141, 141);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .dropdown-menu {
     margin: 0;
+    background-color: rgb(197, 192, 192);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Container styling */
+.background {
+    background-color: rgb(187, 187, 187);
 }
