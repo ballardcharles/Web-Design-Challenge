@@ -59,3 +59,11 @@ body {
 .test {
     margin-left: 10px;
 }
+
+.title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(141, 141, 141);
+    font-weight: bold;
+}
